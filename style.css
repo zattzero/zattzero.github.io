@@ -1,0 +1,25 @@
+body
+
+
+
+
+{
+background: url("http://www.magic4walls.com/wp-content/uploads/2014/02/graphic-design-city-artwork-hd-wallpaper-portfolio-vector-desktop-3d.jpg");
+
+
+}
+
+#toprow
+{
+
+  min-height:30%;
+}
+h2{
+  color:white;
+
+  font-size: 20px;
+}
+h1{color:black}
+h3{color:brown;
+
+font-size: 16px;}
